@@ -1,0 +1,16 @@
+{
+  "name": "sawad/edfa3ly-php-project",
+  "description": "A PHP project for the Edfa3ly system",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "SAwad",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4 || ^8.0",
+    "phpunit/phpunit": "^9.5"
+  }
+}
